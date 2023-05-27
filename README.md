@@ -5,9 +5,9 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=learnwithankit&label=Profile%20views&color=0e75b6&style=flat" alt="learnwithankit" /> </p>
 
-- 🔭 I’m currently working on **tindog**
+- 🔭 I’m currently working on **AirLine Booking System Backend Project**
 
-- 🌱 I’m currently learning **BootStrap & JS**
+- 🌱 I’m currently learning about **MVC architecture**
 
 - 💬 Ask me about **Java,Html,CSS,JS,MERN**
 
